@@ -1,0 +1,9 @@
+.top {
+    background-color: black;
+}
+.nav-link {
+  color: lightyellow !important;
+}
+.nav-link:hover {
+  color: lightslategray !important;
+}
